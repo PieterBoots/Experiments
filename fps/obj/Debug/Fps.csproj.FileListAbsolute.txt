@@ -1,0 +1,10 @@
+C:\Users\piete\Documents\Visual Studio 2019\Projects\fps\bin\Debug\voronoi.exe.config
+C:\Users\piete\Documents\Visual Studio 2019\Projects\fps\bin\Debug\voronoi.exe
+C:\Users\piete\Documents\Visual Studio 2019\Projects\fps\bin\Debug\voronoi.pdb
+C:\Users\piete\Documents\Visual Studio 2019\Projects\fps\obj\Debug\Fps.csprojAssemblyReference.cache
+C:\Users\piete\Documents\Visual Studio 2019\Projects\fps\obj\Debug\voronoi.Properties.Resources.resources
+C:\Users\piete\Documents\Visual Studio 2019\Projects\fps\obj\Debug\Fps.csproj.GenerateResource.cache
+C:\Users\piete\Documents\Visual Studio 2019\Projects\fps\obj\Debug\Fps.csproj.CoreCompileInputs.cache
+C:\Users\piete\Documents\Visual Studio 2019\Projects\fps\obj\Debug\voronoi.exe
+C:\Users\piete\Documents\Visual Studio 2019\Projects\fps\obj\Debug\voronoi.pdb
+C:\Users\piete\Documents\Visual Studio 2019\Projects\fps\obj\Debug\voronoi.FrmFps.resources
