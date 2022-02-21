@@ -73,13 +73,16 @@ namespace voronoi
         }
 
         private void FrmVoronoi_Resize(object sender, EventArgs e)
-        {
+        {   
             timer1.Enabled = false;
             w = (this.ClientRectangle.Width) / 4 * 4;
             h = this.ClientRectangle.Height;
             bytes = new byte[w * h * 3];
             PicImage.Image = new Bitmap(w, h, System.Drawing.Imaging.PixelFormat.Format24bppRgb);
-            timer1.Enabled = true;
+            PicImage.Width= w;
+            PicImage.Height = h;
+            PicImage.Refresh();
+            timer1.Enabled = true;               
         }
     }
 }
